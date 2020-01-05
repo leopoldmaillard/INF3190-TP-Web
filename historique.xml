@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="affichage.xsl"?>
+
+<historique xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:noNamespaceSchemaLocation="schema.xsd">
+    <greve>
+        <datedebut>2017-09-24</datedebut>
+        <datefin>2017-09-29</datefin>
+        <cause>Manque d'infrastructures</cause>
+    </greve>
+    
+    <greve>
+        <datedebut>2018-04-11</datedebut>
+        <datefin>2018-05-02</datefin>
+        <cause>Heures supplémentaires non payées</cause>
+    </greve>
+    
+    <greve>
+        <datedebut>2018-12-10</datedebut>
+        <datefin>2018-12-19</datefin>
+        <cause>Surcharge de travail en fin d'année</cause>
+    </greve>
+    
+    <greve>
+        <datedebut>2019-11-13</datedebut>
+        <datefin>2019-11-14</datefin>
+        <cause>Réduction des effectifs du personnel</cause>
+    </greve>
+</historique>
